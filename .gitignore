@@ -1,0 +1,13 @@
+# 运行时生成
+config.json
+安装包/
+__pycache__/
+*.pyc
+
+# 主题压缩包（体积大，且多为第三方素材）
+*.zip
+
+# 构建产物
+build/
+dist/
+*.spec
